@@ -2,5 +2,5 @@
 
 ## Baekjoon
 ```
-Bronze	1
+Bronze	8
 ```
