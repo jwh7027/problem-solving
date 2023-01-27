@@ -1,6 +1,6 @@
-# problem-solving
+# Problem-solving 
 
-# Baekjoon
+## Baekjoon
 ```
 Bronze 
 ```
