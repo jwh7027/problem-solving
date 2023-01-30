@@ -2,6 +2,6 @@
 
 ## Baekjoon
 ```
-Bronze	15
+Bronze	16
 Silver   1
 ```
