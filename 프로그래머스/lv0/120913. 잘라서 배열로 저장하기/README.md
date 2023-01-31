@@ -1,6 +1,6 @@
 # [level 0] 잘라서 배열로 저장하기 - 120913 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120913?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120913) 
 
 ### 성능 요약
 
