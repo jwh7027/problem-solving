@@ -14,3 +14,9 @@ Level 3   0
 Bronze	18
 Silver   1
 ```
+
+## Leetcode
+```
+Easy    1
+Medium  1
+```
