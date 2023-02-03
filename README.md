@@ -11,7 +11,7 @@ Level 3   0
 
 ## Baekjoon
 ```
-Bronze	21
+Bronze	22
 Silver   3
 ```
 
