@@ -7,8 +7,8 @@ class Node(object):
 class BrowserHistory(object):
 
     def __init__(self, homepage):
-        self.head = Node(homepage)
-        self.tail = Node(homepage)
+        #노드 1개만 생성
+        self.head = self.tail= Node(homepage)
 
     def visit(self, url):
         new_node = Node(url)
