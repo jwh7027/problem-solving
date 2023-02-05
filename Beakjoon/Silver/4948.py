@@ -15,4 +15,4 @@ while True:
     else:
         for i in range(n+1,2*n+1):
             if prime[i]: cnt+= 1 # 소수 개수 세기
-    print(cnt) 
+    print(cnt)
