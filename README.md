@@ -12,7 +12,7 @@ Level 3   0
 ## Baekjoon
 ```
 Bronze	38
-Silver   9
+Silver  10
 ```
 
 ## Leetcode
