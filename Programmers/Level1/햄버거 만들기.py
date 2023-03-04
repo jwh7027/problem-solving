@@ -1,0 +1,12 @@
+def solution(ingredient):
+    answer = 0
+    ham = [1,2,3,1]
+    stack = []
+    for i in ingredient:
+        stack.append(i)
+        if len(stack) >= 4:
+            if stack[-4:] == ham:
+                answer += 1
+                for _ in range(4):
+                    stack.pop(-1)
+    return answer
