@@ -18,5 +18,5 @@ Silver  10
 ## Leetcode
 ```
 Easy    3
-Medium  4
+Medium  5
 ```
