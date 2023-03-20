@@ -46,13 +46,9 @@ def numIslands(self,grid):
                     next_dy = cur_y + dy[i]
         
                     if next_dx >= 0 and next_dx <  m and next_dy >=0 and next_dy < n:
-                        continue
-                    if grid[next_dx][next_dy] == "0":
-                        continue
-                    if grid[next_dx][next_dy] == "1" and not visited[next_dx][next_dy]:
-                        visited[next_dx][next_dy] == True
-                        queue.append((next_dx,next_dy))
-            return False
+                        if grid[next_dx][next_dy] == "1" and not visited[next_dx][next_dy]:
+                            visited[next_dx][next_dy] == True
+                            queue.append((next_dx,next_dy))
 
         for i in range(m):
             for j in range(n):
