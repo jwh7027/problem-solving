@@ -5,7 +5,7 @@
 Level 0   100
 Level 1   66
 Level 2   10
-Level 3   0
+Level 3   1
 ```
 
 
