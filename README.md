@@ -4,8 +4,8 @@
 ```
 Level 0   100
 Level 1   70
-Level 2   12
-Level 3   1
+Level 2   13
+Level 3   2
 ```
 
 
